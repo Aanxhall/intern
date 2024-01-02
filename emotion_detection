@@ -26,7 +26,7 @@
         "outputId": "3fff6ce8-d92b-48e2-9520-19b113ee0596"
       },
       "source": [
-        "!wget https://www.dropbox.com/s/nilt43hyl1dx82k/dataset.zip?dl=0"
+        "!"C:\Users\Lenovo\Downloads\train.zip"
       ],
       "execution_count": 1,
       "outputs": [
